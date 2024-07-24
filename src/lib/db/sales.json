@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "product": "Laptop",
+    "productCode": "LPT",
+    "quantity": 352,
+    "price": 1200.0,
+    "profit": 200.0
+  },
+  {
+    "id": 2,
+    "product": "Smartphone",
+    "productCode": "SPH",
+    "quantity": 500,
+    "price": 800.0,
+    "profit": 123.0
+  },
+  {
+    "id": 3,
+    "product": "Headphones",
+    "productCode": "HDP",
+    "quantity": 432,
+    "price": 150.0,
+    "profit": 50.0
+  },
+  {
+    "id": 4,
+    "product": "Keyboard",
+    "productCode": "KBD",
+    "quantity": 431,
+    "price": 75.0,
+    "profit": 25.0
+  },
+  null,
+  {
+    "id": 6,
+    "product": "Monitor",
+    "productCode": "MNT",
+    "quantity": 234,
+    "price": 300.0,
+    "profit": 50.0
+  },
+  {
+    "id": 7,
+    "product": "Tablet",
+    "productCode": "TBL",
+    "quantity": 68,
+    "price": 350.0,
+    "profit": 100.0
+  },
+  {
+    "id": 8,
+    "product": "Printer",
+    "productCode": "PRT",
+    "quantity": 642,
+    "price": 200.0,
+    "profit": 50.0
+  },
+  {
+    "id": 9,
+    "product": "Webcam",
+    "productCode": "WCM",
+    "quantity": 123,
+    "price": 90.0,
+    "profit": 20.0
+  },
+  {
+    "id": 10,
+    "product": "Desk Lamp",
+    "productCode": "DLP",
+    "quantity": 1921,
+    "price": 30.0,
+    "profit": 5.0
+  },
+  {
+    "id": 11,
+    "product": "Chair",
+    "productCode": "CHR",
+    "quantity": 4854,
+    "price": 120.0,
+    "profit": 20.0
+  },
+  {
+    "id": 12,
+    "product": "External Hard Drive",
+    "productCode": "EHD",
+    "quantity": 483,
+    "price": 100.0,
+    "profit": 20.0
+  },
+  {
+    "id": 13,
+    "product": "USB-C Adapter",
+    "productCode": "USC",
+    "quantity": 10239,
+    "price": 19.99,
+    "profit": 5.0
+  },
+  {
+    "id": 14,
+    "product": "Smart Watch",
+    "productCode": "SWT",
+    "quantity": 483,
+    "price": 199.99,
+    "profit": 50.0
+  },
+  {
+    "id": 15,
+    "product": "Speakers",
+    "productCode": "SPK",
+    "quantity": 394,
+    "price": 85.0,
+    "profit": 20.0
+  }
+]
